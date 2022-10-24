@@ -1,0 +1,38 @@
+[
+	{
+		"title": "Pochoclos",
+		"price": 800,
+		"thumbnail": "https://cdn.icon-icons.com/icons2/810/PNG/512/cinema_popcorn_icon-icons.com_66128.png",
+		"id": 1
+	},
+	{
+		"title": "Bebida Grande",
+		"price": 450,
+		"thumbnail": "https://cdn.icon-icons.com/icons2/1555/PNG/512/fast-food-icons-freecoke-soda_107427.png",
+		"id": 2
+	},
+	{
+		"title": "Nachos con Guacamole",
+		"price": 720,
+		"thumbnail": "https://cdn.icon-icons.com/icons2/3276/PNG/512/nachos_mexican_food_food_appetizer_snack_icon_207980.png",
+		"id": 3
+	},
+	{
+		"title": "Pizza Individual",
+		"price": 680,
+		"thumbnail": "https://cdn.icon-icons.com/icons2/1574/PNG/512/3558094-bake-bread-fast-food-pizza_107831.png",
+		"id": 4
+	},
+	{
+		"title": "Entrada 2D",
+		"price": 940,
+		"thumbnail": "https://cdn.icon-icons.com/icons2/362/PNG/512/Ticket_36722.png",
+		"id": 5
+	},
+	{
+		"title": "Entrada 3D",
+		"price": 1460,
+		"thumbnail": "https://cdn.icon-icons.com/icons2/522/PNG/512/ticket_icon-icons.com_52351.png",
+		"id": 6
+	}
+]
